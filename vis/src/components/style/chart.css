@@ -1,0 +1,8 @@
+#mainchart {
+    width: 400px;
+    height: 800px;
+    background: #e2eaad;
+    margin: 0 auto;
+    resize: both;
+    padding: 10px;
+}
